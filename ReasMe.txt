@@ -1,2 +1,4 @@
 Login: Admin
 Password: Admin:_789!
+
+Database: wordpress.sql
